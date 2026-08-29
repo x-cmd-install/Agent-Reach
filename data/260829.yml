@@ -1,0 +1,58 @@
+about:
+  description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+  license: MIT
+  homepage: 
+  head: 06c202b
+  archived: false
+  latestVersion: v1.5.0
+  collectedAt: 2026-08-29T07:00:57Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-08-25
+  lastRelease: 2026-06-11
+popularity:
+  star: 76410
+  watcher: 266
+  fork: 6534
+  release: 7
+  contributor: 33
+  pullRequest: 251
+  issue: 207
+language:
+  Python: 585140
+  Shell: 18203
+  HTML: 6933
+totalLine: 610276
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 12
+    openPR: 35
+    closedIssue: 6
+    openIssue: 25
+    commit: 34
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 55
+    openPR: 36
+    closedIssue: 54
+    openIssue: 55
+    commit: 105
+  last180d:
+    since: 2026-03-02
+    release: 5
+    mergedPR: 152
+    openPR: 36
+    closedIssue: 120
+    openIssue: 67
+    commit: 212
+  last360d:
+    since: 2025-09-03
+    release: 7
+    mergedPR: 174
+    openPR: 36
+    closedIssue: 140
+    openIssue: 67
+    commit: 319
