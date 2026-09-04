@@ -7,15 +7,15 @@ about:
   head: da5044d
   archived: false
   latestVersion: v1.5.0
-  collectedAt: 2026-09-04T19:36:14Z
+  collectedAt: 2026-09-04T20:55:29Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-09-01
   lastRelease: 2026-06-11
 popularity:
-  star: 78003
+  star: 78008
   watcher: 280
-  fork: 6716
+  fork: 6717
   release: 7
   contributor: 33
   pullRequest: 437
@@ -82,5 +82,48 @@ total:
   openIssue: 74
   commit: 375
 ---
+path: /home/runner/.x-repo/github.com/Panniantong/Agent-Reach
+collectedAt: 2026-09-04T20:55:30Z
+loc:
+  Python:
+    code: 13906
+    comments: 349
+    blanks: 2724
+    files: 69
+  Sh:
+    code: 436
+    comments: 39
+    blanks: 61
+    files: 3
+  Svg:
+    code: 125
+    comments: 19
+    blanks: 19
+    files: 4
+  Toml:
+    code: 73
+    comments: 0
+    blanks: 9
+    files: 1
+  Json:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2168
+    blanks: 920
+    files: 27
+  Text:
+    code: 0
+    comments: 37
+    blanks: 13
+    files: 2
+total:
+  code: 14854
+  comments: 2724
+  blanks: 3821
+  files: 107
 ---
 
