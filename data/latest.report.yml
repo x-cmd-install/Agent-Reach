@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.0"
   latestRelease: "v1.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:25:04Z
+  collectedAt: 2026-09-09T19:51:37Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-09-01
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-11
   lastPrerelease: 
 popularity:
-  star: 78896
-  watcher: 279
-  fork: 6796
+  star: 79042
+  watcher: 277
+  fork: 6802
   release: 7
   contributor: 33
-  pullRequest: 443
+  pullRequest: 444
   issue: 216
 language:
   Python: 585140
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 5
-    openPR: 39
+    openPR: 40
     closedIssue: 1
     openIssue: 26
     commit: 3
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 14
-    openPR: 52
+    openPR: 53
     closedIssue: 17
     openIssue: 45
     commit: 52
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-11
     release: 1
     mergedPR: 33
-    openPR: 53
+    openPR: 54
     closedIssue: 42
     openIssue: 58
     commit: 66
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-13
     release: 4
     mergedPR: 99
-    openPR: 53
+    openPR: 54
     closedIssue: 93
     openIssue: 76
     commit: 151
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-14
     release: 7
     mergedPR: 175
-    openPR: 53
+    openPR: 54
     closedIssue: 140
     openIssue: 76
     commit: 320
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-19
     release: 7
     mergedPR: 175
-    openPR: 53
+    openPR: 54
     closedIssue: 140
     openIssue: 76
     commit: 375
 total:
   release: 7
   mergedPR: 175
-  openPR: 53
+  openPR: 54
   closedIssue: 140
   openIssue: 76
   commit: 375
 ---
 path: /home/runner/.x-repo/github.com/Panniantong/Agent-Reach
-collectedAt: 2026-09-09T05:25:05Z
+collectedAt: 2026-09-09T19:51:38Z
 loc:
   Python:
     code: 13906
