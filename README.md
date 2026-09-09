@@ -7,7 +7,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 - **Latest release**: `v1.5.0` (2026-06-11)
 - **Last commit**: 2026-09-01
 - **License**: MIT
-- **Stars**: 78756 · **Forks**: 6788 · **Open issues**: 216 · **Contributors**: 33
+- **Stars**: 78896 · **Forks**: 6796 · **Open issues**: 216 · **Contributors**: 33
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/Agent-Reach> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:50:53Z._
+_Last regenerated: 2026-09-09T05:25:08Z._
