@@ -36,7 +36,7 @@ Total: **14,551** lines of code across **78** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 79,280 · **Forks**: 6,831 · **Open issues**: 217 · **Contributors**: 33
+- **Stars**: 79,323 · **Forks**: 6,833 · **Open issues**: 217 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **14,551** lines of code across **78** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 5 | 37 | 1 | 25 | 3 |
-| last60d | 2026-07-12 | 0 | 14 | 52 | 17 | 46 | 52 |
-| 90d | 2026-06-12 | 0 | 32 | 53 | 41 | 59 | 66 |
-| last180d | 2026-03-14 | 4 | 99 | 53 | 93 | 77 | 151 |
-| 360d | 2025-09-15 | 7 | 175 | 53 | 140 | 77 | 320 |
-| last720d | 2024-09-20 | 7 | 175 | 53 | 140 | 77 | 375 |
+| 30d | 2026-08-12 | 0 | 3 | 36 | 1 | 22 | 3 |
+| last60d | 2026-07-13 | 0 | 14 | 52 | 16 | 43 | 52 |
+| 90d | 2026-06-13 | 0 | 27 | 53 | 41 | 59 | 66 |
+| last180d | 2026-03-15 | 4 | 97 | 53 | 92 | 76 | 151 |
+| 360d | 2025-09-16 | 7 | 175 | 53 | 140 | 77 | 320 |
+| last720d | 2024-09-21 | 7 | 175 | 53 | 140 | 77 | 375 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:55:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:30:48Z._
