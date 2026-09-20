@@ -4,7 +4,7 @@
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-![Agent-Reach](https://repo.x-cmd.io/Agent-Reach.svg)
+[![x-cmd/install — Agent-Reach Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Agent-Reach.svg)](https://x-cmd.com/install/Agent-Reach)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **15,226** lines of code across **80** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 82,880 · **Forks**: 7,248 · **Open issues**: 220 · **Contributors**: 33
+- **Stars**: 83,538 · **Forks**: 7,320 · **Open issues**: 223 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 175 · **Open PRs**: 64 · **Closed issues**: 140 · **Open issues**: 80 · **Commits**: 376
+- **Releases**: 7 · **Merged PRs**: 175 · **Open PRs**: 70 · **Closed issues**: 140 · **Open issues**: 83 · **Commits**: 376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 37 | 1 | 15 | 4 |
-| last60d | 2026-07-20 | 0 | 15 | 63 | 11 | 43 | 53 |
-| 90d | 2026-06-20 | 0 | 23 | 63 | 35 | 57 | 62 |
-| last180d | 2026-03-22 | 4 | 93 | 64 | 82 | 78 | 140 |
-| 360d | 2025-09-23 | 7 | 175 | 64 | 140 | 80 | 320 |
-| last720d | 2024-09-28 | 7 | 175 | 64 | 140 | 80 | 376 |
+| 30d | 2026-08-21 | 0 | 3 | 41 | 0 | 17 | 4 |
+| last60d | 2026-07-22 | 0 | 15 | 69 | 11 | 46 | 53 |
+| 90d | 2026-06-22 | 0 | 23 | 69 | 31 | 60 | 62 |
+| last180d | 2026-03-24 | 4 | 85 | 70 | 82 | 81 | 140 |
+| 360d | 2025-09-25 | 7 | 175 | 70 | 140 | 83 | 320 |
+| last720d | 2024-09-30 | 7 | 175 | 70 | 140 | 83 | 376 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:43:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:36:45Z._
