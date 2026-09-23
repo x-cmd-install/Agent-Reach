@@ -4,7 +4,7 @@
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-[![x-cmd/install — Agent-Reach Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Agent-Reach.svg?lang=zh)](https://x-cmd.com/install/Agent-Reach)
+[![x-cmd/install — Agent-Reach Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Agent-Reach.svg?lang=zh)](https://x-cmd.com/install/Agent-Reach)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install Agent-Reach
 
 ## 流行度
 
-- **Star**: 84,488 · **Fork**: 7,421 · **开放 issue**: 224 · **贡献者**: 33
+- **Star**: 84,906 · **Fork**: 7,455 · **开放 issue**: 224 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 7 · **已合并 PR**: 175 · **开放 PR**: 71 · **已关闭 issue**: 140 · **开放 issue**: 84 · **提交数**: 376
+- **发布数**: 7 · **已合并 PR**: 175 · **开放 PR**: 76 · **已关闭 issue**: 140 · **开放 issue**: 84 · **提交数**: 376
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 40 | 0 | 17 | 2 |
-| last60d | 2026-07-24 | 0 | 15 | 70 | 9 | 47 | 36 |
-| 90d | 2026-06-24 | 0 | 22 | 70 | 30 | 59 | 61 |
-| last180d | 2026-03-26 | 4 | 84 | 71 | 80 | 82 | 137 |
-| 360d | 2025-09-27 | 7 | 175 | 71 | 140 | 84 | 320 |
-| last720d | 2024-10-02 | 7 | 175 | 71 | 140 | 84 | 376 |
+| 30d | 2026-08-24 | 0 | 3 | 44 | 0 | 17 | 2 |
+| last60d | 2026-07-25 | 0 | 14 | 75 | 9 | 47 | 36 |
+| 90d | 2026-06-25 | 0 | 22 | 75 | 28 | 59 | 61 |
+| last180d | 2026-03-27 | 4 | 81 | 76 | 79 | 82 | 137 |
+| 360d | 2025-09-28 | 7 | 175 | 76 | 140 | 84 | 320 |
+| last720d | 2024-10-03 | 7 | 175 | 76 | 140 | 84 | 376 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ Agent-Reach 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:04:28Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:48:15Z._

@@ -4,7 +4,7 @@
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-[![x-cmd/install — Agent-Reach Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Agent-Reach.svg)](https://x-cmd.com/install/Agent-Reach)
+[![x-cmd/install — Agent-Reach Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Agent-Reach.svg)](https://x-cmd.com/install/Agent-Reach)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **15,226** lines of code across **80** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 84,488 · **Forks**: 7,421 · **Open issues**: 224 · **Contributors**: 33
+- **Stars**: 84,906 · **Forks**: 7,455 · **Open issues**: 224 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 175 · **Open PRs**: 71 · **Closed issues**: 140 · **Open issues**: 84 · **Commits**: 376
+- **Releases**: 7 · **Merged PRs**: 175 · **Open PRs**: 76 · **Closed issues**: 140 · **Open issues**: 84 · **Commits**: 376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 40 | 0 | 17 | 2 |
-| last60d | 2026-07-24 | 0 | 15 | 70 | 9 | 47 | 36 |
-| 90d | 2026-06-24 | 0 | 22 | 70 | 30 | 59 | 61 |
-| last180d | 2026-03-26 | 4 | 84 | 71 | 80 | 82 | 137 |
-| 360d | 2025-09-27 | 7 | 175 | 71 | 140 | 84 | 320 |
-| last720d | 2024-10-02 | 7 | 175 | 71 | 140 | 84 | 376 |
+| 30d | 2026-08-24 | 0 | 3 | 44 | 0 | 17 | 2 |
+| last60d | 2026-07-25 | 0 | 14 | 75 | 9 | 47 | 36 |
+| 90d | 2026-06-25 | 0 | 22 | 75 | 28 | 59 | 61 |
+| last180d | 2026-03-27 | 4 | 81 | 76 | 79 | 82 | 137 |
+| 360d | 2025-09-28 | 7 | 175 | 76 | 140 | 84 | 320 |
+| last720d | 2024-10-03 | 7 | 175 | 76 | 140 | 84 | 376 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:04:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:48:15Z._
