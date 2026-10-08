@@ -32,26 +32,26 @@ Total: **15,226** lines of code across **80** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.0` (2026-06-11)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-10-07
 
 ## Popularity
 
-- **Stars**: 92,774 · **Forks**: 8,136 · **Open issues**: 238 · **Contributors**: 33
+- **Stars**: 93,592 · **Forks**: 8,191 · **Open issues**: 238 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 175 · **Open PRs**: 117 · **Closed issues**: 140 · **Open issues**: 98 · **Commits**: 376
+- **Releases**: 7 · **Merged PRs**: 176 · **Open PRs**: 111 · **Closed issues**: 149 · **Open issues**: 89 · **Commits**: 380
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 68 | 0 | 24 | 1 |
-| last60d | 2026-08-08 | 0 | 6 | 110 | 2 | 48 | 6 |
-| 90d | 2026-07-09 | 0 | 16 | 116 | 17 | 69 | 53 |
-| last180d | 2026-04-10 | 3 | 63 | 117 | 64 | 94 | 106 |
-| 360d | 2025-10-12 | 7 | 175 | 117 | 140 | 98 | 320 |
-| last720d | 2024-10-17 | 7 | 175 | 117 | 140 | 98 | 376 |
+| 30d | 2026-09-08 | 0 | 1 | 66 | 6 | 17 | 4 |
+| last60d | 2026-08-09 | 0 | 7 | 100 | 9 | 40 | 9 |
+| 90d | 2026-07-10 | 0 | 16 | 110 | 25 | 60 | 56 |
+| last180d | 2026-04-11 | 3 | 63 | 111 | 73 | 85 | 109 |
+| 360d | 2025-10-13 | 7 | 176 | 111 | 149 | 89 | 323 |
+| last720d | 2024-10-18 | 7 | 176 | 111 | 149 | 89 | 380 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:30:43Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:46Z._
