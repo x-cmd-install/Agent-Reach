@@ -14,15 +14,15 @@ x install Agent-Reach
 
 ## Code insight
 
-Total: **15,226** lines of code across **80** files in the top 5 languages.
+Total: **12,514** lines of code across **102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,581 | 372 | 2,851 | 71 |
-| Sh | 436 | 39 | 61 | 3 |
+| Python | 11,935 | 275 | 2,669 | 79 |
+| Sh | 387 | 29 | 49 | 2 |
 | Svg | 125 | 19 | 19 | 4 |
-| Toml | 73 | 0 | 9 | 1 |
-| Json | 11 | 0 | 0 | 1 |
+| Toml | 67 | 0 | 9 | 1 |
+| Markdown | 0 | 939 | 389 | 16 |
 
 ## Source
 
@@ -31,27 +31,36 @@ Total: **15,226** lines of code across **80** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.5.0` (2026-06-11)
-- **Last commit**: 2026-10-07
+- **Latest**: `v1.6.0` (2026-10-23)
+- **Last commit**: 2026-10-23
+- **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 101,088 · **Forks**: 8,909 · **Open issues**: 252 · **Contributors**: 33
+- **Stars**: 101,390 · **Forks**: 8,941 · **Open issues**: 252 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 177 · **Open PRs**: 130 · **Closed issues**: 150 · **Open issues**: 102 · **Commits**: 380
+- **Releases**: 8 · **Merged PRs**: 179 · **Open PRs**: 126 · **Closed issues**: 150 · **Open issues**: 102 · **Commits**: 442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 69 | 5 | 22 | 3 |
-| last60d | 2026-08-24 | 0 | 5 | 101 | 7 | 38 | 5 |
-| 90d | 2026-07-25 | 0 | 16 | 129 | 18 | 66 | 41 |
-| last180d | 2026-04-26 | 3 | 62 | 130 | 72 | 93 | 109 |
-| 360d | 2025-10-28 | 7 | 177 | 130 | 150 | 102 | 323 |
-| last720d | 2024-11-02 | 7 | 177 | 130 | 150 | 102 | 380 |
+| 30d | 2026-09-24 | 1 | 4 | 65 | 5 | 22 | 61 |
+| last60d | 2026-08-25 | 1 | 5 | 98 | 7 | 38 | 63 |
+| 90d | 2026-07-26 | 1 | 18 | 126 | 17 | 65 | 99 |
+| last180d | 2026-04-27 | 4 | 64 | 126 | 72 | 93 | 167 |
+| 360d | 2025-10-29 | 8 | 179 | 126 | 150 | 102 | 381 |
+| last720d | 2024-11-03 | 8 | 179 | 126 | 150 | 102 | 442 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [agent-reach.zip](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent-reach.zip) | 660.7 KiB | `other` |
+| [agent_reach-1.6.0-py3-none-any.whl](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0-py3-none-any.whl) | 158.4 KiB | `other` |
+| [agent_reach-1.6.0.tar.gz](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0.tar.gz) | 605.5 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -62,4 +71,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:04Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:07:05Z._
