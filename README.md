@@ -22,7 +22,7 @@ Total: **13,047** lines of code across **106** files in the top 5 languages.
 | Sh | 387 | 29 | 49 | 2 |
 | Svg | 125 | 19 | 19 | 4 |
 | Toml | 67 | 0 | 9 | 1 |
-| Markdown | 0 | 964 | 399 | 16 |
+| Markdown | 0 | 974 | 401 | 16 |
 
 ## Source
 
@@ -31,36 +31,36 @@ Total: **13,047** lines of code across **106** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.0` (2026-10-23)
+- **Latest**: `v1.6.1` (2026-11-01)
 - **Last commit**: 2026-11-01
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 107,312 · **Forks**: 9,560 · **Open issues**: 276 · **Contributors**: 42
+- **Stars**: 107,756 · **Forks**: 9,610 · **Open issues**: 278 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 189 · **Open PRs**: 146 · **Closed issues**: 162 · **Open issues**: 114 · **Commits**: 470
+- **Releases**: 9 · **Merged PRs**: 190 · **Open PRs**: 149 · **Closed issues**: 161 · **Open issues**: 117 · **Commits**: 472
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 14 | 65 | 15 | 26 | 63 |
-| last60d | 2026-09-02 | 1 | 14 | 110 | 19 | 46 | 79 |
-| 90d | 2026-08-03 | 1 | 28 | 146 | 25 | 71 | 84 |
-| last180d | 2026-05-05 | 4 | 71 | 146 | 82 | 104 | 182 |
-| 360d | 2025-11-06 | 8 | 189 | 146 | 162 | 114 | 396 |
-| last720d | 2024-11-11 | 8 | 189 | 146 | 162 | 114 | 470 |
+| 30d | 2026-10-03 | 2 | 15 | 53 | 15 | 29 | 64 |
+| last60d | 2026-09-03 | 2 | 15 | 113 | 18 | 49 | 80 |
+| 90d | 2026-08-04 | 2 | 27 | 149 | 24 | 73 | 85 |
+| last180d | 2026-05-06 | 5 | 72 | 149 | 81 | 107 | 183 |
+| 360d | 2025-11-07 | 9 | 190 | 149 | 161 | 117 | 397 |
+| last720d | 2024-11-12 | 9 | 190 | 149 | 161 | 117 | 472 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-reach.zip](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent-reach.zip) | 660.7 KiB | `other` |
-| [agent_reach-1.6.0-py3-none-any.whl](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0-py3-none-any.whl) | 158.4 KiB | `other` |
-| [agent_reach-1.6.0.tar.gz](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0.tar.gz) | 605.5 KiB | `native/unknown` |
+| [agent-reach.zip](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent-reach.zip) | 671.4 KiB | `other` |
+| [agent_reach-1.6.1-py3-none-any.whl](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1-py3-none-any.whl) | 160.8 KiB | `other` |
+| [agent_reach-1.6.1.tar.gz](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1.tar.gz) | 613.9 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:46:40Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:41:00Z._

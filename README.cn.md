@@ -22,7 +22,7 @@ x install Agent-Reach
 | Sh | 387 | 29 | 49 | 2 |
 | Svg | 125 | 19 | 19 | 4 |
 | Toml | 67 | 0 | 9 | 1 |
-| Markdown | 0 | 964 | 399 | 16 |
+| Markdown | 0 | 974 | 401 | 16 |
 
 ## 源代码
 
@@ -31,36 +31,36 @@ x install Agent-Reach
 
 ## 发布
 
-- **最新版本**: `v1.6.0` (2026-10-23)
+- **最新版本**: `v1.6.1` (2026-11-01)
 - **最近提交**: 2026-11-01
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 107,312 · **Fork**: 9,560 · **开放 issue**: 276 · **贡献者**: 42
+- **Star**: 107,756 · **Fork**: 9,610 · **开放 issue**: 278 · **贡献者**: 42
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 189 · **开放 PR**: 146 · **已关闭 issue**: 162 · **开放 issue**: 114 · **提交数**: 470
+- **发布数**: 9 · **已合并 PR**: 190 · **开放 PR**: 149 · **已关闭 issue**: 161 · **开放 issue**: 117 · **提交数**: 472
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 14 | 65 | 15 | 26 | 63 |
-| last60d | 2026-09-02 | 1 | 14 | 110 | 19 | 46 | 79 |
-| 90d | 2026-08-03 | 1 | 28 | 146 | 25 | 71 | 84 |
-| last180d | 2026-05-05 | 4 | 71 | 146 | 82 | 104 | 182 |
-| 360d | 2025-11-06 | 8 | 189 | 146 | 162 | 114 | 396 |
-| last720d | 2024-11-11 | 8 | 189 | 146 | 162 | 114 | 470 |
+| 30d | 2026-10-03 | 2 | 15 | 53 | 15 | 29 | 64 |
+| last60d | 2026-09-03 | 2 | 15 | 113 | 18 | 49 | 80 |
+| 90d | 2026-08-04 | 2 | 27 | 149 | 24 | 73 | 85 |
+| last180d | 2026-05-06 | 5 | 72 | 149 | 81 | 107 | 183 |
+| 360d | 2025-11-07 | 9 | 190 | 149 | 161 | 117 | 397 |
+| last720d | 2024-11-12 | 9 | 190 | 149 | 161 | 117 | 472 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-reach.zip](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent-reach.zip) | 660.7 KiB | `other` |
-| [agent_reach-1.6.0-py3-none-any.whl](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0-py3-none-any.whl) | 158.4 KiB | `other` |
-| [agent_reach-1.6.0.tar.gz](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.0/agent_reach-1.6.0.tar.gz) | 605.5 KiB | `native/unknown` |
+| [agent-reach.zip](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent-reach.zip) | 671.4 KiB | `other` |
+| [agent_reach-1.6.1-py3-none-any.whl](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1-py3-none-any.whl) | 160.8 KiB | `other` |
+| [agent_reach-1.6.1.tar.gz](https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1.tar.gz) | 613.9 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ Agent-Reach 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:46:40Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:41:01Z._
