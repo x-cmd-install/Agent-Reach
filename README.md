@@ -37,22 +37,22 @@ Total: **13,047** lines of code across **106** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 107,756 · **Forks**: 9,610 · **Open issues**: 278 · **Contributors**: 42
+- **Stars**: 108,193 · **Forks**: 9,654 · **Open issues**: 279 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 190 · **Open PRs**: 149 · **Closed issues**: 161 · **Open issues**: 117 · **Commits**: 472
+- **Releases**: 9 · **Merged PRs**: 190 · **Open PRs**: 148 · **Closed issues**: 161 · **Open issues**: 118 · **Commits**: 472
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 15 | 53 | 15 | 29 | 64 |
-| last60d | 2026-09-03 | 2 | 15 | 113 | 18 | 49 | 80 |
-| 90d | 2026-08-04 | 2 | 27 | 149 | 24 | 73 | 85 |
-| last180d | 2026-05-06 | 5 | 72 | 149 | 81 | 107 | 183 |
-| 360d | 2025-11-07 | 9 | 190 | 149 | 161 | 117 | 397 |
-| last720d | 2024-11-12 | 9 | 190 | 149 | 161 | 117 | 472 |
+| 30d | 2026-10-04 | 2 | 15 | 51 | 14 | 29 | 64 |
+| last60d | 2026-09-04 | 2 | 15 | 107 | 18 | 47 | 80 |
+| 90d | 2026-08-05 | 2 | 26 | 148 | 24 | 74 | 85 |
+| last180d | 2026-05-07 | 5 | 72 | 148 | 81 | 108 | 183 |
+| 360d | 2025-11-08 | 9 | 190 | 148 | 161 | 118 | 397 |
+| last720d | 2024-11-13 | 9 | 190 | 148 | 161 | 118 | 472 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:41:00Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:29:24Z._
