@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 687490,
       "digest": "sha256:51443d733bcb26064262442083a8f8abf6ba5e3e7df54beebafe98c88be04a60",
-      "download_count": 18958,
+      "download_count": 23720,
       "created_at": "2026-11-01T07:24:14Z",
       "updated_at": "2026-11-01T07:24:15Z",
       "browser_download_url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent-reach.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 164630,
       "digest": "sha256:6a1085cae53118c5f1271ab24041e55ec17c509932612b919208f04d10183acb",
-      "download_count": 712,
+      "download_count": 854,
       "created_at": "2026-11-01T07:24:14Z",
       "updated_at": "2026-11-01T07:24:15Z",
       "browser_download_url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 628630,
       "digest": "sha256:c801cd86339c96f39882b9e3cb91b654728d0e4e342cde62edda17d763623318",
-      "download_count": 44,
+      "download_count": 59,
       "created_at": "2026-11-01T07:24:14Z",
       "updated_at": "2026-11-01T07:24:15Z",
       "browser_download_url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1.tar.gz"
