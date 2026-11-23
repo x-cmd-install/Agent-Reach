@@ -14,15 +14,15 @@ x install Agent-Reach
 
 ## Code insight
 
-Total: **13,668** lines of code across **110** files in the top 5 languages.
+Total: **13,670** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,089 | 309 | 2,950 | 87 |
+| Python | 13,091 | 309 | 2,950 | 87 |
 | Sh | 387 | 29 | 49 | 2 |
 | Svg | 125 | 19 | 19 | 4 |
 | Toml | 67 | 0 | 9 | 1 |
-| Markdown | 0 | 960 | 401 | 16 |
+| Markdown | 0 | 964 | 399 | 16 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **13,668** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-11-01)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-22
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 113,828 · **Forks**: 10,218 · **Open issues**: 310 · **Contributors**: 50
+- **Stars**: 114,120 · **Forks**: 10,249 · **Open issues**: 310 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 215 · **Open PRs**: 93 · **Closed issues**: 244 · **Open issues**: 66 · **Commits**: 533
+- **Releases**: 9 · **Merged PRs**: 216 · **Open PRs**: 94 · **Closed issues**: 244 · **Open issues**: 66 · **Commits**: 535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 34 | 73 | 28 | 31 | 52 |
-| last60d | 2026-09-23 | 2 | 40 | 83 | 49 | 36 | 109 |
-| 90d | 2026-08-24 | 2 | 43 | 91 | 60 | 43 | 113 |
-| last180d | 2026-05-26 | 5 | 97 | 93 | 151 | 63 | 213 |
-| 360d | 2025-11-27 | 9 | 215 | 93 | 244 | 66 | 427 |
-| last720d | 2024-12-02 | 9 | 215 | 93 | 244 | 66 | 533 |
+| 30d | 2026-10-24 | 1 | 34 | 73 | 28 | 31 | 37 |
+| last60d | 2026-09-24 | 2 | 41 | 84 | 49 | 36 | 110 |
+| 90d | 2026-08-25 | 2 | 42 | 92 | 60 | 43 | 112 |
+| last180d | 2026-05-27 | 5 | 98 | 94 | 151 | 63 | 214 |
+| 360d | 2025-11-28 | 9 | 216 | 94 | 244 | 66 | 428 |
+| last720d | 2024-12-03 | 9 | 216 | 94 | 244 | 66 | 535 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for Agent-Reach lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:43:36Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:43:08Z._
