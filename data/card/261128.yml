@@ -1,0 +1,126 @@
+about:
+  description: "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  license: MIT
+  homepage: 
+  head: 8d9ecc1
+  archived: false
+  latestVersion: "v1.6.1"
+  latestRelease: "v1.6.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:30:17Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-11-24
+  lastVersion: 2026-11-01
+  lastRelease: 2026-11-01
+  lastPrerelease: 
+popularity:
+  star: 115455
+  watcher: 360
+  fork: 10391
+  release: 9
+  contributor: 51
+  pullRequest: 672
+  issue: 313
+language:
+  Python: 663658
+  Shell: 15943
+totalBytes: 679601
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 26
+    openPR: 70
+    closedIssue: 16
+    openIssue: 31
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 42
+    openPR: 85
+    closedIssue: 46
+    openIssue: 39
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 43
+    openPR: 91
+    closedIssue: 58
+    openIssue: 46
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 99
+    openPR: 94
+    closedIssue: 149
+    openIssue: 66
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 9
+    mergedPR: 217
+    openPR: 94
+    closedIssue: 244
+    openIssue: 69
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 9
+    mergedPR: 217
+    openPR: 94
+    closedIssue: 244
+    openIssue: 69
+    commit: 538
+total:
+  release: 9
+  mergedPR: 217
+  openPR: 94
+  closedIssue: 244
+  openIssue: 69
+  commit: 538
+---
+path: /home/runner/.x-repo/github.com/Panniantong/Agent-Reach
+collectedAt: 2026-11-28T08:30:19Z
+loc:
+  Python:
+    code: 13181
+    comments: 319
+    blanks: 2972
+    files: 89
+  Sh:
+    code: 387
+    comments: 29
+    blanks: 49
+    files: 2
+  Svg:
+    code: 125
+    comments: 19
+    blanks: 19
+    files: 4
+  Toml:
+    code: 67
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 964
+    blanks: 399
+    files: 16
+  Text:
+    code: 0
+    comments: 37
+    blanks: 11
+    files: 2
+total:
+  code: 13792
+  comments: 1368
+  blanks: 3459
+  files: 114
+---
+
+---
